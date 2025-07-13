@@ -1,0 +1,6 @@
+1st Dataset: https://www.kaggle.com/datasets/mehul0518/soup-can
+2nd Dataset:: https://www.kaggle.com/datasets/sacuscreed/falcon-soup-cans 
+
+Merger Dataset by Me: https://www.kaggle.com/datasets/habijabii/soup-can
+
+Notebook: https://www.kaggle.com/code/habijabii/1st-place-solution
